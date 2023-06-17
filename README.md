@@ -51,6 +51,7 @@ Who are these types? Subscriber are users that have bought a subscription over a
 Interesting find, when we look at the average trip duration, we see that Customer type has a much higher average TD. These are one time users, hence we should devise a package, that sets the price by trip duration. Higher TD, higher price leading to maximizing revenue.
 
 Further analysis of User types led us to this chart:
+
 ![scat](https://github.com/hshariq/CitiBike-Analysis/blob/main/img/Screenshot%202023-05-31%20145346.png)
 
 We can clearly see that our customers are less spread compared to Subscriber. An interesting find shows that for some ages, like 45-50, and 30-35, our customers peak at trip durations. This suggests that our customers that generate higher TD’s, are in this age bracket.  On the other hand, customers of ages, 70+ are very scarce. This suggests that most of our customers are tourists, and high age people do not travel much, and due to obvious health reasons avoid biking.
