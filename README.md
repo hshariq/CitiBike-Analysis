@@ -8,6 +8,9 @@ The task at hand is to create a dynamic, visually appealing Tableau dashboard to
 ### EDA and Cleaning Perfomed:
 Visit the Jupyter Notebook to get an overview of data cleaning and EDA applied throughout the project
 
+### Dataset:
+Link: https://drive.google.com/file/d/1iEkvocRLXfH3m7nkZFEvuMO7eHoDlWX2/view?usp=drive_link
+
 ## Dashboards:
 
 ### User Profile:
