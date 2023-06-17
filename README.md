@@ -54,22 +54,28 @@ Further analysis of User types led us to this chart:
 ![scat](https://github.com/hshariq/CitiBike-Analysis/blob/main/img/Screenshot%202023-05-31%20145346.png)
 
 We can clearly see that our customers are less spread compared to Subscriber. An interesting find shows that for some ages, like 45-50, and 30-35, our customers peak at trip durations. This suggests that our customers that generate higher TD’s, are in this age bracket.  On the other hand, customers of ages, 70+ are very scarce. This suggests that most of our customers are tourists, and high age people do not travel much, and due to obvious health reasons avoid biking.
+
 ![s1](https://github.com/hshariq/CitiBike-Analysis/blob/main/img/Screenshot%202023-05-31%20145505.png)
 
 On the other hand, with Subscribers we generate a steady stream of usage. The chart is well spread and says that for all ages it is generating high TD’s. The frequency of 70+ users is much higher, showing that old people that have a structured schedule, along which they operate use our bikes. This could be for recreational purposes. Since old people are not bounded by any schedules, a subscription helps them to keep their activity levels high. 
+
 ![s2](https://github.com/hshariq/CitiBike-Analysis/blob/main/img/Screenshot%202023-05-31%20150008.png)
 
 Next we look at how our genders are spread by User types.
+
 ![hyt](https://github.com/hshariq/CitiBike-Analysis/blob/main/img/Screenshot%202023-05-31%20150544.png)
 
 For subscribers we see that male are in majority, however female produce over 800k records, which clearly means that despite the relative small percentage, we should not ignore them as a valuable customer.
+
 ![hytt](https://github.com/hshariq/CitiBike-Analysis/blob/main/img/Screenshot%202023-05-31%20150602.png)
 
 Next for customers, we have a vert interesting find. All of Gender Unknown, lie in the Customer type of our dataset. Zero instances of Unknown exist in subscriber. Which shows, that for the registration process of our customers, we should generate a form that ensures a reply. We can do this by compulsory fields or adding options to cater for all. This would enrich our data, and allow to grow with better quality of data.
+
 ![h](https://github.com/hshariq/CitiBike-Analysis/blob/main/img/Screenshot%202023-05-31%20150930.png)
 
 ### Peak Hours:
 ![peak](https://github.com/hshariq/CitiBike-Analysis/blob/main/img/Screenshot%202023-05-31%20151710.png)
+
 Our top 3 peak hours are: 
 8 am
 5 pm
