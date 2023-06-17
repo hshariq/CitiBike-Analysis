@@ -107,6 +107,8 @@ This tree map provides another perspective on the most popular stations, potenti
 
 ### Top 10 Routes
 ![t10](https://github.com/hshariq/CitiBike-Analysis/blob/main/img/Screenshot%202023-05-31%20022601.png)
+![t10map](https://github.com/hshariq/CitiBike-Analysis/assets/114312270/6763d7b3-943c-44df-a240-ea0f346f1468)
+
 
 The table and accompanying map together show the most frequently used routes by Citi Bike users. The color coding helps users understand which start and end stations are connected, providing a visual narrative of how people move around the city. For instance, if a route between "Central Park South & 6th Avenue" and "West St & Chambers St" is particularly popular, it might suggest a common commute path or a scenic route favored by tourists.
 
