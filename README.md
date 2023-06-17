@@ -11,9 +11,13 @@ Visit the Jupyter Notebook to get an overview of data cleaning and EDA applied t
 ## Dashboards:
 
 ### User Profile:
+![UP](https://github.com/hshariq/CitiBike-Analysis/blob/main/img/Screenshot%202023-06-10%20225528.png)
+
 This dashboard provides a comprehensive overview of trip durations, age distribution, gender, and user types, allowing for an in-depth analysis of user behavior and preferences.
 
 ### Trip Profile:
+![TP](https://github.com/hshariq/CitiBike-Analysis/blob/main/img/Screenshot%202023-06-10%20225701.png)
+
 This dashboard offers valuable insights into the most popular start and end stations, peak start times, and popular routes, enabling a thorough understanding of usage patterns and facilitating strategic decision-making for the Citibike network.
 
 As a CitiBike business, there are two most important elements of my business: 
